@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Object Detection Camera</title>
+    <title>Human Detection in Landslide</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -80,14 +80,17 @@
         .yolo-color {
             background-color: #00ff00;
         }
-        .roboflow-color {
-            background-color: #ff0000;
+        
+        
+        .co2-section {
+            margin-top: 15px;
+            font-size: 18px;
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Object Detection Camera</h1>
+        <h1>Human Detection in Landslide</h1>
         <img id="videoFeed" src="{{ url_for('video_feed') }}" width="576" height="576">
         
         <div class="controls">
@@ -97,15 +100,16 @@
         
         <div id="status" class="status-off">Status: Camera Off</div>
         
+        <div class="co2-section">
+            <p>CO₂ Level: <span id="co2Value">Loading...</span> ppm</p>
+        </div>
+        
         <div class="legend">
             <div class="legend-item">
                 <div class="legend-color yolo-color"></div>
                 <span>YOLO Detections</span>
             </div>
-            <div class="legend-item">
-                <div class="legend-color roboflow-color"></div>
-                <span>Roboflow Detections</span>
-            </div>
+            
         </div>
     </div>
 
@@ -113,6 +117,18 @@
         const startBtn = document.getElementById('startBtn');
         const stopBtn = document.getElementById('stopBtn');
         const statusDiv = document.getElementById('status');
+        const co2Value = document.getElementById('co2Value');
+        
+        async function updateCO2() {
+            try {
+                const response = await fetch('/co2');
+                const data = await response.json();
+                co2Value.textContent = data.ppm ;
+            } catch (error) {
+                co2Value.textContent = "Error Reading";
+            }
+        }
+        setInterval(updateCO2, 3000);
         
         startBtn.addEventListener('click', async () => {
             try {
