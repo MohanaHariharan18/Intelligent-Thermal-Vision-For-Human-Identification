@@ -55,7 +55,7 @@ Intelligent-Thermal-Vision-For-Human-Identification/
 ├── __pycache__/           # Compiled Python files
 └── README.md              # Documentation
 
----
+
 
 
 ---
@@ -67,22 +67,21 @@ Intelligent-Thermal-Vision-For-Human-Identification/
 git clone https://github.com/MohanaHariharan18/Intelligent-Thermal-Vision-For-Human-Identification.git
 cd Intelligent-Thermal-Vision-For-Human-Identification
 
-
-Step 2️⃣ Setup Environment
+### Step 2️⃣ Setup Environment
 
 python -m venv venv
 source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Windows
 
-Step 3️⃣ Install Dependencies
+### Step 3️⃣ Install Dependencies
 
 pip install -r requirements.txt
 
-Step 4️⃣ Run Application
+### Step 4️⃣ Run Application
 
 python app.py
 
-🌐 Access the application at:
+### 🌐 Access the application at:
 
 http://localhost:5000
 
