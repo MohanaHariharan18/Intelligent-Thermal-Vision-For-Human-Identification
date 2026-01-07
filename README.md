@@ -60,6 +60,7 @@ Intelligent-Thermal-Vision-For-Human-Identification/
 
 ---
 
+```md
 ## ⚙️ Installation & Deployment
 
 ### Step 1️⃣ Clone Repository
