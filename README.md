@@ -60,41 +60,34 @@ Intelligent-Thermal-Vision-For-Human-Identification/
 
 ---
 
-
 ## ⚙️ Installation & Deployment
 
 ### Step 1️⃣ Clone Repository
 ```bash
 git clone https://github.com/MohanaHariharan18/Intelligent-Thermal-Vision-For-Human-Identification.git
 cd Intelligent-Thermal-Vision-For-Human-Identification
-
-### Step 2️⃣ Setup Environment
-
+Step 2️⃣ Setup Environment
+bash
+Copy code
 python -m venv venv
-source venv/bin/activate   # Linux/Mac
-venv\Scripts\activate      # Windows
-
-### Step 3️⃣ Install Dependencies
-
+source venv/bin/activate    # Linux / Mac
+venv\Scripts\activate       # Windows
+Step 3️⃣ Install Dependencies
+bash
+Copy code
 pip install -r requirements.txt
-
-### Step 4️⃣ Run Application
-
+Step 4️⃣ Run Application
+bash
+Copy code
 python app.py
-
-### 🌐 Access the application at:
-
+🌐 Access the application at:
 http://localhost:5000
-```bash
----
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
----
-
-## 👤 Author
+## 🌟 About Me
 
 Hi, I’m **Mohana Hariharan**, an aspiring **Data Scientist / Data Analyst** with a strong foundation in **Artificial Intelligence, Data Science, and SQL-based analytics**. I hold a Bachelor of Technology in **Artificial Intelligence and Data Science** and have hands-on experience building data-driven solutions through internships and real-world projects.
 
