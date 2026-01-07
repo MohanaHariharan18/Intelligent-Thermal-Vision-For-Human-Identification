@@ -62,34 +62,46 @@ Intelligent-Thermal-Vision-For-Human-Identification/
 
 ## ⚙️ Installation & Deployment
 
-### Step 1️⃣ Clone Repository
+### step  1️⃣ Clone Repository
 ```bash
 git clone https://github.com/MohanaHariharan18/Intelligent-Thermal-Vision-For-Human-Identification.git
 cd Intelligent-Thermal-Vision-For-Human-Identification
-Step 2️⃣ Setup Environment
-bash
-Copy code
+```
+
+### Step 2️⃣ Create Virtual Environment
+```bash
 python -m venv venv
+```
+### Step 3️⃣ Activate Virtual Environment
+```bash
 source venv/bin/activate    # Linux / Mac
 venv\Scripts\activate       # Windows
-Step 3️⃣ Install Dependencies
-bash
-Copy code
+```
+
+### Step 4️⃣ Install Dependencies
+```bash
 pip install -r requirements.txt
-Step 4️⃣ Run Application
-bash
-Copy code
+```
+
+### Step 5️⃣ Run the Application
+```bash
 python app.py
-🌐 Access the application at:
+```
+### 🌐 Application URL
+```bash
 http://localhost:5000
+```
+---
+## 🛡️ License
+
+- **License:** MIT
+- **Copyright:** © 2026 Mohana Hariharan
+- **Usage:** Free for use, modification, and distribution
+- **Attribution:** Required
 
 ---
 
-## 🛡️ License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
-
-## 🌟 About Me
+## 👤 Author
 
 Hi, I’m **Mohana Hariharan**, an aspiring **Data Scientist / Data Analyst** with a strong foundation in **Artificial Intelligence, Data Science, and SQL-based analytics**. I hold a Bachelor of Technology in **Artificial Intelligence and Data Science** and have hands-on experience building data-driven solutions through internships and real-world projects.
 
@@ -103,5 +115,6 @@ I am actively seeking opportunities in **Data Analytics, Data Science, or Data E
 📧 Email: mohanahariharan1@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/mohanahariharans  
 🐙 GitHub: https://github.com/MohanaHariharan18
+
 
 
