@@ -39,9 +39,11 @@ This project demonstrates **real-world application of deep learning, thermal vis
 
 ## 🧠 System Architecture
 ```text
-![Intelligent Thermal Vision System Architecture][image:2]
+[System Architecture](templates/System_Architecture.png)
+
 
 ---
+
 ## 📂 Project Structure
 
 Intelligent-Thermal-Vision-For-Human-Identification/
@@ -52,7 +54,9 @@ Intelligent-Thermal-Vision-For-Human-Identification/
 ├── templates/             # HTML templates (UI)
 ├── __pycache__/           # Compiled Python files
 └── README.md              # Documentation
+
 ---
+
 ## ⚙️ Installation & Deployment
 
 Step 1️⃣ Clone Repository
@@ -77,11 +81,15 @@ python app.py
 🌐 Access the application at:
 
 http://localhost:5000
+
 ---
+
 ## 📜 License
 
 This project is licensed under the MIT License.
+
 ---
+
 ## 👤 Author
 
 Hi, I’m **Mohana Hariharan**, an aspiring **Data Scientist / Data Analyst** with a strong foundation in **Artificial Intelligence, Data Science, and SQL-based analytics**. I hold a Bachelor of Technology in **Artificial Intelligence and Data Science** and have hands-on experience building data-driven solutions through internships and real-world projects.
