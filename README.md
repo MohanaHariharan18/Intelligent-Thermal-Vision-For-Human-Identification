@@ -39,17 +39,9 @@ This project demonstrates **real-world application of deep learning, thermal vis
 
 ## 🧠 System Architecture
 ```text
-Thermal Camera / Image Source
-        ↓
-Image Preprocessing (OpenCV)
-        ↓
-Deep Learning Model (YOLOv8)
-        ↓
-Human Detection & Classification
-        ↓
-Web Interface (Flask)
+<img width="2848" height="1600" alt="image" src="https://github.com/user-attachments/assets/33deb2cc-db57-419d-9ed5-1147f1f904cf" />
 
-📂 Project Structure
+## 📂 Project Structure
 
 Intelligent-Thermal-Vision-For-Human-Identification/
 │
@@ -60,7 +52,7 @@ Intelligent-Thermal-Vision-For-Human-Identification/
 ├── __pycache__/           # Compiled Python files
 └── README.md              # Documentation
 
-⚙️ Installation & Deployment
+## ⚙️ Installation & Deployment
 
 Step 1️⃣ Clone Repository
 
@@ -85,11 +77,11 @@ python app.py
 
 http://localhost:5000
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 
-👤 Author
+## 👤 Author
 
 Hi, I’m **Mohana Hariharan**, an aspiring **Data Scientist / Data Analyst** with a strong foundation in **Artificial Intelligence, Data Science, and SQL-based analytics**. I hold a Bachelor of Technology in **Artificial Intelligence and Data Science** and have hands-on experience building data-driven solutions through internships and real-world projects.
 
