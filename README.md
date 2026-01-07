@@ -60,7 +60,7 @@ Intelligent-Thermal-Vision-For-Human-Identification/
 
 ---
 
-```md
+
 ## ⚙️ Installation & Deployment
 
 ### Step 1️⃣ Clone Repository
@@ -85,7 +85,7 @@ python app.py
 ### 🌐 Access the application at:
 
 http://localhost:5000
-
+```bash
 ---
 
 ## 📜 License
