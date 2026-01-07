@@ -39,8 +39,9 @@ This project demonstrates **real-world application of deep learning, thermal vis
 
 ## 🧠 System Architecture
 ```text
-<img width="2848" height="1600" alt="image" src="https://github.com/user-attachments/assets/33deb2cc-db57-419d-9ed5-1147f1f904cf" />
+![Intelligent Thermal Vision System Architecture][image:2]
 
+---
 ## 📂 Project Structure
 
 Intelligent-Thermal-Vision-For-Human-Identification/
@@ -51,7 +52,7 @@ Intelligent-Thermal-Vision-For-Human-Identification/
 ├── templates/             # HTML templates (UI)
 ├── __pycache__/           # Compiled Python files
 └── README.md              # Documentation
-
+---
 ## ⚙️ Installation & Deployment
 
 Step 1️⃣ Clone Repository
@@ -76,11 +77,11 @@ python app.py
 🌐 Access the application at:
 
 http://localhost:5000
-
+---
 ## 📜 License
 
 This project is licensed under the MIT License.
-
+---
 ## 👤 Author
 
 Hi, I’m **Mohana Hariharan**, an aspiring **Data Scientist / Data Analyst** with a strong foundation in **Artificial Intelligence, Data Science, and SQL-based analytics**. I hold a Bachelor of Technology in **Artificial Intelligence and Data Science** and have hands-on experience building data-driven solutions through internships and real-world projects.
@@ -89,7 +90,7 @@ During my internship as a **Data Scientist Intern at QTL Agritech**, I designed 
 
 My project experience includes **computer vision, NLP, and data analytics**, where I have applied machine learning models, performed exploratory data analysis, and deployed end-to-end applications using **Flask, OpenCV, and TensorFlow**. I enjoy transforming raw data into actionable insights and building scalable analytics solutions.
 
-I am actively seeking opportunities in **Data Analytics, Data Science, or Data Engineering**, where I can contribute my analytical skills, technical knowledge, and problem-solving mindset to real-world business challenges.
+I am actively seeking opportunities in Data Analytics, Data Science, or Data Engineering, where I can contribute my analytical skills, technical knowledge, and problem-solving mindset to real-world business challenges.
 
 📍 Chennai, Tamil Nadu  
 📧 Email: mohanahariharan1@gmail.com  
