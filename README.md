@@ -38,13 +38,13 @@ This project demonstrates **real-world application of deep learning, thermal vis
 ---
 
 ## 🧠 System Architecture
-```text
-[System Architecture](templates/System_Architecture.png)
 
+![Intelligent Thermal Vision System Architecture](templates/System_Architecture.png)
 
 ---
 
 ## 📂 Project Structure
+
 
 Intelligent-Thermal-Vision-For-Human-Identification/
 │
@@ -57,12 +57,16 @@ Intelligent-Thermal-Vision-For-Human-Identification/
 
 ---
 
+
+---
+
 ## ⚙️ Installation & Deployment
 
-Step 1️⃣ Clone Repository
-
+### Step 1️⃣ Clone Repository
+```bash
 git clone https://github.com/MohanaHariharan18/Intelligent-Thermal-Vision-For-Human-Identification.git
 cd Intelligent-Thermal-Vision-For-Human-Identification
+
 
 Step 2️⃣ Setup Environment
 
