@@ -95,7 +95,7 @@ http://localhost:5000
 ## 🛡️ License
 
 - **License:** MIT
-- **Copyright:** © 2026 Mohana Hariharan
+- **Copyright:** © 2025 Mohana Hariharan
 - **Usage:** Free for use, modification, and distribution
 - **Attribution:** Required
 
