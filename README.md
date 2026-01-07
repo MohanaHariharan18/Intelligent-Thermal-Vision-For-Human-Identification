@@ -44,7 +44,7 @@ This project demonstrates **real-world application of deep learning, thermal vis
 ---
 
 ## 📂 Project Structure
-
+```
 
 Intelligent-Thermal-Vision-For-Human-Identification/
 │
@@ -54,7 +54,7 @@ Intelligent-Thermal-Vision-For-Human-Identification/
 ├── templates/             # HTML templates (UI)
 ├── __pycache__/           # Compiled Python files
 └── README.md              # Documentation
-
+```
 
 
 
@@ -83,7 +83,9 @@ python app.py
 🌐 Access the application at:
 http://localhost:5000
 
-## 📜 License
+
+
+## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
@@ -95,9 +97,11 @@ During my internship as a **Data Scientist Intern at QTL Agritech**, I designed 
 
 My project experience includes **computer vision, NLP, and data analytics**, where I have applied machine learning models, performed exploratory data analysis, and deployed end-to-end applications using **Flask, OpenCV, and TensorFlow**. I enjoy transforming raw data into actionable insights and building scalable analytics solutions.
 
-I am actively seeking opportunities in Data Analytics, Data Science, or Data Engineering, where I can contribute my analytical skills, technical knowledge, and problem-solving mindset to real-world business challenges.
+I am actively seeking opportunities in **Data Analytics, Data Science, or Data Engineering**, where I can contribute my analytical skills, technical knowledge, and problem-solving mindset to real-world business challenges.
 
 📍 Chennai, Tamil Nadu  
 📧 Email: mohanahariharan1@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/mohanahariharans  
 🐙 GitHub: https://github.com/MohanaHariharan18
+
+
