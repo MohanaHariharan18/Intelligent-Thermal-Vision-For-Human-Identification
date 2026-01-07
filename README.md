@@ -83,7 +83,7 @@ python app.py
 🌐 Access the application at:
 http://localhost:5000
 
-
+---
 
 ## 🛡️ License
 
